@@ -83,10 +83,10 @@ export const auction: Auction = {
   },
   actions: {
     text: 'Sign up and get 5% off the bidding price',
-    button: 'RSVP for the auction', // Big on Opensea
-    link: 'https://forms.gle/wNDrwLKkbCwfW44EA',
+    button: 'BID ON OPENSEA', // Bid on Opensea
+    link: 'https://opensea.io/collection/e4c',
     buttonStyle: {
-      backgroundColor: '#ff4125' // #2081E2
+      backgroundColor: '#2081E2' // #2081E2
     }
   }
 }
