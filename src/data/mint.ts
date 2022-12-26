@@ -4,9 +4,9 @@ export const mint: Mint = {
   information: {
     // 只支持文件名含 @ 符号的图片，如 banner_@1x.jpg banner_@2x.jpg banner_@3x.jpg
     images: [
-      'https://ambrus.s3.amazonaws.com/1663925833649_0.49_banner_480h.jpg',
-      'https://ambrus.s3.amazonaws.com/1663925833647_0.20_banner_960h.jpg',
-      'https://ambrus.s3.amazonaws.com/1663925833627_0.41_banner-1.jpg'
+      'https://ambrus.s3.amazonaws.com/1672031056982_0.85_banner%400.33x.jpg',
+      'https://ambrus.s3.amazonaws.com/1672031056980_0.75_banner-2%400.67x.jpg',
+      'https://ambrus.s3.amazonaws.com/1672031056961_0.79_banner-1.jpg'
     ],
     type: 'E4C Rangers Genesis Series 1',
     name: 'Rin: Heir of Musashi',
@@ -16,12 +16,12 @@ export const mint: Mint = {
   },
   disclaimer: {
     images: [
-      'https://ambrus.s3.amazonaws.com/1663749034842_0.94_Gold_A.png',
-      'https://ambrus.s3.amazonaws.com/1663749034863_0.51_Gold_B.png',
-      'https://ambrus.s3.amazonaws.com/1663749034868_0.09_Gold_C.png',
-      'https://ambrus.s3.amazonaws.com/1659503426906_0.55_1.jpg',
-      'https://ambrus.s3.amazonaws.com/1659503426929_0.47_2.jpg',
-      'https://ambrus.s3.amazonaws.com/1659503426933_0.29_3.jpg'
+      'https://ambrus.s3.amazonaws.com/1672032083985_0.65_1.jpg',
+      'https://ambrus.s3.amazonaws.com/1672032084006_0.64_2.jpg',
+      'https://ambrus.s3.amazonaws.com/1672032084009_0.68_3.jpg',
+      'https://ambrus.s3.amazonaws.com/1672032084014_0.99_4.jpg',
+      'https://ambrus.s3.amazonaws.com/1672032084017_0.86_5.jpg',
+      'https://ambrus.s3.amazonaws.com/1672032084020_0.37_6.jpg'
     ],
     content: ''
   },
